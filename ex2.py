@@ -13,5 +13,5 @@ def multipliers(num):
     return list
 
 
-multipliers = multipliers(num)
-print(f'Простые множители числа {num}: {multipliers}')
+mult = multipliers(num)
+print(f'Простые множители числа {num}: {mult}')
